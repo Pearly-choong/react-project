@@ -1,0 +1,5 @@
+{
+  "MONGO_USER" : "pearlydb",
+  "MONGO_PASSWORD" : "P3arly",
+  "MONGO_CLUSTER_NAME" : "pearly-cpl-yceqt"
+}
